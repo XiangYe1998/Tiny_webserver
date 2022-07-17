@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "type_traits": "cpp",
+        "pthread.h": "c",
+        "mysql.h": "c"
+    }
+}
